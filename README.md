@@ -1,5 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/USERNAME/REPO/blob/main/Final_ASL_Project_Code.ipynb)
+(https://colab.research.google.com/github/dingo1113/asl-hand-gesture-recognition
+/blob/main/Final_ASL_Project_Code.ipynb)
 
 # Real-Time ASL Hand Gesture Recognition
 
